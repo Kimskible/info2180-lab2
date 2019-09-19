@@ -1,10 +1,15 @@
 body{
  background-color: rgb(255, 255, 255);
 }
+
 h1{
   font-size: 24px;
   color:#41b883;
 }
 p{
   font-size: 18px;
+}
+
+img{
+  width: 80%;
 }
