@@ -1,3 +1,3 @@
-# info2180-lab2
+# INFO2180 LAB 2
 
-This is LAb 2 for Kimberly Stewart.
+This is Lab 2 for Kimberly Stewart.
